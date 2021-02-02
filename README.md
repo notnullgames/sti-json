@@ -6,7 +6,7 @@ I am still working on this
 
 JSON tiled map support for [STI](https://github.com/karai17/Simple-Tiled-Implementation) a loader for maps made in [tiled](https://www.mapeditor.org/) for love2d.
 
-This will add the ability to laod JSON maps, a native format for Tiled, so you don't have to export them to lua before using them.
+This will add the ability to load JSON maps, a native format for Tiled, so you don't have to export them to lua before using them.
 
 ## usage
 
